@@ -3,6 +3,7 @@ Support saya dengan memberikan star di repository ini.
 
 Cypress adalah next generation front end testing tool untuk membangun modern web, ini merupakan sample project sederhana mengenai e2e test menggunakan cypress.
 
+
 ## Cypress Getting Started
 Berikut merupakan cara memulai project automation menggunakan Cypress.
 #### Npm install
@@ -25,6 +26,10 @@ or
  
 #### Direct download
 >[Download via CDN Cypress](https://download.cypress.io/desktop)
+
+### How access test script
+Test script ada pada directory berikut:
+>cypress->e2e
 
 ### Materials 
  >Visual studio code [disini](https://visualstudio.microsoft.com/downloads/).
