@@ -7,7 +7,7 @@ Cypress adalah next generation front end testing tool untuk membangun modern web
 Berikut merupakan cara memulai project automation menggunakan Cypress.
 #### Npm install
 Install Cypress via npm :
->cd /your/project.path
+>cd /your/project/path
 
 >npm install cypress --save-dev
  
