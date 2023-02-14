@@ -1,4 +1,5 @@
 # My automation journey
+>Series Demoblaze
 Support saya dengan memberikan star di repository ini.
 
 Cypress adalah next generation front end testing tool untuk membangun modern web, ini merupakan sample project sederhana mengenai e2e test menggunakan cypress.
@@ -8,10 +9,13 @@ Cypress adalah next generation front end testing tool untuk membangun modern web
 Berikut merupakan cara memulai project automation menggunakan Cypress.
 #### Npm install
 Install Cypress via npm :
->cd /your/project/path
+```bash
+cd /your/project/path
+```
 
->npm install cypress --save-dev
- 
+```bash
+npm install cypress --save-dev
+``` 
 or
  
 #### Yarn install
