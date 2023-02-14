@@ -20,10 +20,12 @@ or
  
 #### Yarn install
 Install Cypress via yarn :
+```bash
 >cd /your/project.path
-
+```
+```bash
 >yarn add cypress --dev
-
+```
 Ini akan menginstall cypress pada lokal sebagai dependencies dev pada project kalian.
  
 or
