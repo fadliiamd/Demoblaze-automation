@@ -10,11 +10,11 @@ Berikut merupakan cara memulai project automation menggunakan Cypress.
 #### Npm install
 Install Cypress via npm :
 ```bash
-cd /your/project/path
+>cd /your/project/path
 ```
 
 ```bash
-npm install cypress --save-dev
+>npm install cypress --save-dev
 ``` 
 or
  
