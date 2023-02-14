@@ -34,18 +34,19 @@ or
 #### Direct download
 >[Download via CDN Cypress](https://download.cypress.io/desktop)
 
-#### How access test script
-Test script ada pada directory berikut:
->cypress->e2e
 
-### Materials 
+## Materials 
  >Visual studio code [disini](https://visualstudio.microsoft.com/downloads/).
 
  >Node.js [disini](https://nodejs.org/en/download/).
 
- #### Cek versi node
+#### Cek versi node
 Apabila node.js telah terinstall di computer teman-teman, lalu teman-teman dapat cek versi node pada cmd dengan mengetikkan `node -v`, apabila berhasil terinstall maka akan menampilkan keterangan versi node yang telah terinstall. contohnya seperti di bawah ini:
 >v16.15.1
+
+#### How access test script
+Test script ada pada directory berikut:
+>cypress->e2e
 
 ### Kontak saya 
   Berikut merupakan kontak yg bisa teman-teman hubungi apabila membutuhkan.
