@@ -27,7 +27,7 @@ or
 #### Direct download
 >[Download via CDN Cypress](https://download.cypress.io/desktop)
 
-### How access test script
+#### How access test script
 Test script ada pada directory berikut:
 >cypress->e2e
 
