@@ -1,5 +1,6 @@
 # My automation journey
->Series Demoblaze
+`Series Demoblaze`
+
 Support saya dengan memberikan star di repository ini.
 
 Cypress adalah next generation front end testing tool untuk membangun modern web, ini merupakan sample project sederhana mengenai e2e test menggunakan cypress.
